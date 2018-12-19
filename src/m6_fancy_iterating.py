@@ -549,7 +549,6 @@ def print_items_that_are_odd_integers(sequence):
         if (type(sequence[k]) is int) and (sequence[k]%2==1):
             print(str(sequence[k])+' is at index '+str(k))
 
-
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
